@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:100,200,300,400,500,600,700,800,900');
+
+body{
+    font-family: 'Comfortaa';
+    color: black;
+    background-color: #cacaca;
+}
+.content{
+    padding: 10px 50px;
+}
+.menu{
+    background-color: #a09f9f;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 16px;
+}
+input{
+    border-radius: 2px;
+    background-color: #cacaca;
+    height: 30px;
+    width: 300px;
+    font-family: 'Comfortaa';
+    font-size: 20px;
+    border: none;
+    color:white;
+}
+ion-icon{
+    width: 30px;
+    height:30px;
+    color:#cacaca;
+}
